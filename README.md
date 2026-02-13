@@ -2,6 +2,8 @@
 
 # Hello, I am Sri Charana Sai Kireeti Thallam Venkata an aspiring Full Stack Developer
 
+## Published Link: https://cygnus-voyages-private-limited.vercel.app/
+
 ## Project Overview
 
 This is a responsive Job Board UI built with React and Vite. It allows users to view job listings, search by title, filter by location/type, and includes bonus features like sorting and keyword highlighting.
